@@ -25,7 +25,7 @@ pipeline {
         }
         stage('Post') {
             steps {
-                echo 'Tests finished'
+                echo 'Tests finished now'
             }
         }
     }
